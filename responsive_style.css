@@ -328,7 +328,7 @@ header ul li a:hover{
         align-items: center;
         
     }
-    .sci li a
+    .sci li a:hover
     {
         display: inline-block;
         filter: invert(1);
