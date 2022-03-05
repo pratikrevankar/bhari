@@ -328,6 +328,13 @@ header ul li a:hover{
         align-items: center;
         
     }
+    .sci li a
+    {
+        display: inline-block;
+        filter: invert(1);
+        margin: 5px 0;
+        transform: scale(0.6);
+    }
 }
 ::-webkit-scrollbar {
     width: 10px;
